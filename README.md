@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+I am Fraol Bereket, I am a Fullstack developer who likes to code a webpage for fun. As a developer, I have a strong passion for building efficient and scalable components that are designed to grow with the project. My extensive experience has provided me with the knowledge and skills to develop clean, efficient, and maintainable code that is both easy to understand and easy to work with.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fraolb)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **fraolb/fraolb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
